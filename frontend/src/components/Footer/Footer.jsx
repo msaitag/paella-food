@@ -33,7 +33,7 @@ const Footer = () => {
         </div>
       </div>
       <hr />
-      <p className='footer-copyright'>Created with  <img src={assets.heart_icon} alt=""/>  by MSAG</p>
+      <p className='footer-copyright'>Created with&nbsp;&nbsp;<img src={assets.heart_icon} alt=""/>&nbsp;&nbsp;by MSAG</p>
     </div>
   )
 }
