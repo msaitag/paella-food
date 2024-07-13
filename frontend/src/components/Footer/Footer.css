@@ -46,7 +46,7 @@
     border: none;
 }
 .footer .logo {
-    width: max(50%, 80px);
+    width: max(30%, 140px);
 }
 @media (max-width: 750px) {
     .footer-content {
