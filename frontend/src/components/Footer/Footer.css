@@ -45,6 +45,9 @@
     background-color: grey;
     border: none;
 }
+.navbar .logo {
+    width: max(10%, 80px);
+}
 @media (max-width: 750px) {
     .footer-content {
         display: flex;
